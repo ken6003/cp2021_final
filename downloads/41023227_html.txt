@@ -142,7 +142,7 @@ rocflag = button2(rocflag_url)
 doc["rocflag"].bind("click", rocflag.do)
 ################################## rocflag end
 ################################# cube start 
-cube_url = "https://gist.githubusercontent.com/ken6003/12155700b72b65ab78361f55a4737703/raw/4a0123adf037ef75a22fd927a18e8be6e2cbf535/41023227"
+cube_url = "https://gist.githubusercontent.com/ken6003/12155700b72b65ab78361f55a4737703/raw/7509741cb74fd26ca53e479b7fca081a1bc9135e/41023227"
 cube = button2(cube_url)
 doc["cube"].bind('click', cube.do)
 ################################## cube end
